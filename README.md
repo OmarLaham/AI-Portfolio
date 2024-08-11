@@ -11,7 +11,7 @@ AI Certificates, hackathons, projects, publications and more. All gathered in on
 * Online Verification: Kindly [click here](https://learn.microsoft.com/en-us/users/omarlaham-5718/credentials/b2c859d73c2256f8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ### Skills:
-
+Microsoft Azure Cloud | Text Analytics | Vision AI | Video Indexing | AI Search | Document Intelligence | Generative AI | Responsible AI | Diagnostics
 
 ## AI for Health Care - Udacity Nanodegree
 Build, evaluate, and integrate predictive models that have the power to transform patient outcomes.
@@ -23,7 +23,7 @@ Build, evaluate, and integrate predictive models that have the power to transfor
 * Online Verification: Kindly [click here](https://www.udacity.com/certificate/KUP26G3J)
 
 ### Skills:
-
+Tensor Flow | PyTorch | 2D Medical Imaging Classification | 3D Medical Imaging Segmentation | AI n EHR Data | Wearable Device
 
 ### Sub-projects:
 * AI in **2D Medical Imaging Classification** (Pneumonia Detection). [Github repo](https://github.com/OmarLaham/udacity-healthcare-ai-2d-imaging-pneumonia).
@@ -45,7 +45,7 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 </p>
 
 ### Skills:
-
+OpenAI | LangChain | Azure: Cloud, Store, CLI, AI Search | Streamlit | WebRTC
 
 ### Repo & Demo Video:
 [Github Repo Link](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main).
@@ -62,7 +62,7 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 Github Repo: Available upon final submission..
 
 ### Skills:
-
+Data Analysis | SARIMAX | XGBoost | TensorFlow | 4D-Arrays | Visualization
 
 # Projects
 
@@ -82,7 +82,7 @@ An **AI for IoT** project implemented as an **Alexa Smart Skill** on top of **Az
 In addition to keep my skills up-to-date, this project is aimed to be a fun project to create a tool that helps me catch the bus on time and even buy me a ticket online automatically 😉
 
 ### Skills:
-
+Alexa Smart Skill | OpenCV | Azure | Azure AI Services | Azure Vision Studio | OAuth2 | Azure Entra ID | Azure Functions | Azure Storage Account | Azure Blob Storage | Azure SQL Database 
 
 ### Repo & Source Code:
 [Github Repo Link](https://github.com/OmarLaham/Robus).
@@ -93,7 +93,7 @@ In addition to keep my skills up-to-date, this project is aimed to be a fun proj
 An AI Agent That Brings Joy Back Into Remote-Workers Life by suggesting a daily plan that contains places to visit for working and having fun.
 
 ### Skills:
-
+Google Places API | GPT 3.5 Turbo (Chat Purpose) | Frontalface Cascade Classifier | Local Binary Patterns Histogram (LBPH) Face Recognizer | Streamlit Web App
 
 ### Repo & Source Code:
 [Github Repo Link](https://github.com/OmarLaham/RW-Buddy).
