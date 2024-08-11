@@ -1,5 +1,5 @@
 # AI-Portfolio
-My AI Portfolio
+AI Certificates, hackathons, projects, publications and more. All gathered in one AI Portfolio Github repo.
 
 # Certificates & Degrees
 ## Microsoft Certified: Azure AI Engineer Associate
