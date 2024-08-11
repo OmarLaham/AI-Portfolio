@@ -15,6 +15,9 @@ My AI Portfolio
 
 ## AI for Health Care - Udacity Nanodegree
 Build, evaluate, and integrate predictive models that have the power to transform patient outcomes.
+<p align="center">
+    <img src="imgs/ai_4_healthcare_udacity_nanodeg.png" width="367" alt="Udacity Nanodegree: AI for Healthcare" />
+</p>
 
 * Issued by **Udacity** on January 2022
 * Online Verification: Kindly [click here](https://www.udacity.com/certificate/KUP26G3J)
