@@ -40,7 +40,6 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 <p align="center">
 	<img src="imgs/qsummit_hackathon_image.jpeg" width="384" height="384" alt="Q-Summit 2024 , Hackathon, Mannheim Germany">
 </p>
-<br /><br />
 
 ### Skills:
 
