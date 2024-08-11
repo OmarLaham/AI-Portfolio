@@ -66,6 +66,15 @@ Github Repo: Available upon final submission..
 
 # Projects
 
+## Master Thesis Project:
+Analyze Covid-19 patients’ big data (~1M features) to study correlation with disease severity and prognosis. Computation done on the faculty cluster.
+
+### Skills:
+Kanban | TDD | Docker | Visualization | XGBoost | Lasso | RF | Documentation
+
+### Thesis as PDF:
+Kindly [click here](files/Master_Thesis_CORSAAR_Final_01.02.2022.pdf).
+
 ## Robus:
 <img src="imgs/robus_logo.png" width="128" height="128" alt="Robus" />
 
@@ -92,4 +101,10 @@ An AI Agent That Brings Joy Back Into Remote-Workers Life by suggesting a daily 
 ### Demo Video:
 Kindly [click here](https://youtu.be/fnhrjF15kyQ) for a Youtube video demo ▶️ of the app 😊.
 
+# AI Publications
 
+## miRMaster 2.0: multi-species non-coding RNA sequencing analyses at scale
+* Authors: Tobias Fehlmann, Fabian Kern, **Omar Laham**, Christina Backes, Jeffrey Solomon, Pascal Hirsch, Carsten Volz, Rolf Müller, Andreas Keller
+* Link: Kindly [click here](https://academic.oup.com/nar/article/49/W1/W397/6238409).
+* ML part: miRNA prediction
+<br /><br />
