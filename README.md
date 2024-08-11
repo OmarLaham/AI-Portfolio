@@ -42,6 +42,9 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 </p>
 <br /><br />
 
+### Skills:
+
+
 ### Repo & Demo Video:
 [Github Repo](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main)
 
@@ -55,6 +58,9 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 	<img src="imgs/AI4LS_partners_2024.png" width="" height="" alt="AI4LS Partners 2024" />
 </p>
 Github Repo: Available upon final submission..
+
+### Skills:
+
 
 # Projects
 
