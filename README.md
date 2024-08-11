@@ -67,9 +67,7 @@ Github Repo: Available upon final submission..
 # Projects
 
 ## Robus:
-<p align="center">
-    <img src="imgs/robus_logo.png" width="128" height="128" alt="Robus" />
-</p>
+<img src="imgs/robus_logo.png" width="128" height="128" alt="Robus" />
 
 An **AI for IoT** project implemented as an **Alexa Smart Skill** on top of **Azure Cloud**
 In addition to keep my skills up-to-date, this project is aimed to be a fun project to create a tool that helps me catch the bus on time and even buy me a ticket online automatically 😉
@@ -81,9 +79,7 @@ In addition to keep my skills up-to-date, this project is aimed to be a fun proj
 [Github Repo Link](https://github.com/OmarLaham/Robus).
 
 ## RW-Buddy:
-<p align="center">
-    <img src="imgs/rw_buddy_logo.png" width="128" height="128" alt="RW-Buddy" />
-</p>
+<img src="imgs/rw_buddy_logo.png" width="128" height="128" alt="RW-Buddy" />
 
 An AI Agent That Brings Joy Back Into Remote-Workers Life by suggesting a daily plan that contains places to visit for working and having fun.
 
