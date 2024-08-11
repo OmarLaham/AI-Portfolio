@@ -6,7 +6,7 @@ My AI Portfolio
     <img src="imgs/Microsoft-Certified-AI-102.png" alt="Microsoft Certified: Azure AI Engineer Associate" />
 </p>
 
-* Issued by Microsoft on August 7, 2024
+* Issued by **Microsoft** on August 7, 2024
 * Online Verification: click (here)[https://learn.microsoft.com/en-us/users/omarlaham-5718/credentials/b2c859d73c2256f8?ref=https%3A%2F%2Fwww.linkedin.com%2F]
 
 ## Robus [ - in progress - ]:
