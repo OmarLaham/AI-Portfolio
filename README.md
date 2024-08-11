@@ -50,7 +50,7 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 ### Repo & Demo Video:
 [Github Repo Link](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main).
 
-## AI 4 Life Sciences - 2nd Edition - Current -
+## AI 4 Life Sciences 2nd Edition - Currently Running -
 "AI for Life Sciences is a recurring challenge series aimed at connecting AI enthusiasts and practitioners with organizations who would like to explore how to apply AI to use cases and domains across the broad domain of life sciences. Possible research domains including biology, genetics, ecology, microbiology, physiology, cell biology, botany – and more – fields which comprise the diverse branches of science commonly referred to as life sciences." ([AI4LS Homepage](https://ai4lifesciences.com/about/))
 
 * Project: Using AI **Timeseries Forecast** to **Predict Ground Water Levels** for ~450 Geographical Points in Austria between **2022 and 2024**.
