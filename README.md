@@ -30,16 +30,6 @@ Build, evaluate, and integrate predictive models that have the power to transfor
 
 # Hacathons
 
-## AI 4 Life Sciences - 2nd Edition - Current -
-"AI for Life Sciences is a recurring challenge series aimed at connecting AI enthusiasts and practitioners with organizations who would like to explore how to apply AI to use cases and domains across the broad domain of life sciences. Possible research domains including biology, genetics, ecology, microbiology, physiology, cell biology, botany – and more – fields which comprise the diverse branches of science commonly referred to as life sciences." ([AI4LS Homepage](https://ai4lifesciences.com/about/))
-
-* Project: Using AI **Timeseries Forecast** to **Predict Ground Water Levels** for ~450 Geographical Points in Austria between **2022 and 2024**.
-* Partners (2024):
-
-<p align="center">
-	<img src="imgs/AI4LS_partners_2024.png" width="" height="" alt="AI4LS Partners 2024" />
-</p>
-
 ## Q-Summit 2024 , Hackathon, Mannheim Germany - Winner Team (1st Place)
 Happy to be a member of the **winner team** (1st place) at the hackathon of **Q-Summit 2024, Germany’s most important conference for entrepreneurship and innovation!** ✌️🥳🥳
 <br />
@@ -54,6 +44,17 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 
 ### Repo & Demo Video:
 [Github Repo](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main)
+
+## AI 4 Life Sciences - 2nd Edition - Current -
+"AI for Life Sciences is a recurring challenge series aimed at connecting AI enthusiasts and practitioners with organizations who would like to explore how to apply AI to use cases and domains across the broad domain of life sciences. Possible research domains including biology, genetics, ecology, microbiology, physiology, cell biology, botany – and more – fields which comprise the diverse branches of science commonly referred to as life sciences." ([AI4LS Homepage](https://ai4lifesciences.com/about/))
+
+* Project: Using AI **Timeseries Forecast** to **Predict Ground Water Levels** for ~450 Geographical Points in Austria between **2022 and 2024**.
+* Partners (2024):
+
+<p align="center">
+	<img src="imgs/AI4LS_partners_2024.png" width="" height="" alt="AI4LS Partners 2024" />
+</p>
+Github Repo: Available upon final submission..
 
 # Projects
 
