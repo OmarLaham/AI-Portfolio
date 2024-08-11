@@ -48,7 +48,7 @@ We had 2 days full of fun, creativity and networking with great leaders, brillia
 
 
 ### Repo & Demo Video:
-[Github Repo](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main)
+[Github Repo Link](https://github.com/OmarLaham/QSummit-2024-Hackathon-Caupona/tree/main).
 
 ## AI 4 Life Sciences - 2nd Edition - Current -
 "AI for Life Sciences is a recurring challenge series aimed at connecting AI enthusiasts and practitioners with organizations who would like to explore how to apply AI to use cases and domains across the broad domain of life sciences. Possible research domains including biology, genetics, ecology, microbiology, physiology, cell biology, botany – and more – fields which comprise the diverse branches of science commonly referred to as life sciences." ([AI4LS Homepage](https://ai4lifesciences.com/about/))
@@ -78,7 +78,7 @@ In addition to keep my skills up-to-date, this project is aimed to be a fun proj
 
 
 ### Repo & Source Code:
-[Github Repo](https://github.com/OmarLaham/Robus)
+[Github Repo Link](https://github.com/OmarLaham/Robus).
 
 ## RW-Buddy:
 <p align="center">
@@ -91,7 +91,7 @@ An AI Agent That Brings Joy Back Into Remote-Workers Life by suggesting a daily 
 
 
 ### Repo & Source Code:
-[Github Repo](https://github.com/OmarLaham/RW-Buddy)
+[Github Repo Link](https://github.com/OmarLaham/RW-Buddy).
 
 ### Demo Video:
 Kindly [click here](https://youtu.be/fnhrjF15kyQ) for a Youtube video demo ▶️ of the app 😊.
